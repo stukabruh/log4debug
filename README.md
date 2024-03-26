@@ -99,10 +99,10 @@ The color will not change except for the area enclosed by the function.
 https://www.npmjs.com/package/log4debug
 
 ### Contact Developer
-- `DiscordID:`robot_official
-- `TwitterID:`robot_neet
+- `Discord:`robot_official
+- `Twitter:`robot_neet
 
-### Attention
-All written using [Deepl translator](https://www.deepl.com/ja/translator)
+### Credits
+README Written with the help of [Deepl translator](https://www.deepl.com/en/translator) and stukabruh (bruh moment)
 
 
